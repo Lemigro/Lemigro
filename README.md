@@ -18,9 +18,6 @@ Desenvolvedor de software focado em **back-end com Java** e **Oracle PL/SQL**. A
 - [LinkedIn](https://www.linkedin.com/in/pedro-nascimento-125073177/)
 - [E-mail](mailto:pedro.cosmica@gmail.com)
 
-## Estatísticas do GitHub
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Lemigro&show_icons=true&theme=radical)
-
 ## Habilidades Técnicas
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
