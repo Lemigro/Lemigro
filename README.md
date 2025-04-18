@@ -9,7 +9,7 @@ Desenvolvedor de software focado em **back-end com Java** e **Oracle PL/SQL**. A
 
 ## Tecnologias e Ferramentas
 - 💻 **Linguagens**: Java, Kotlin, PL/SQL
-- ⚙️ **Ferramentas**: Git, Figma, Android Studio, IntelliJ, VSCode, SQLTools
+- ⚙️ **Ferramentas**: Git, Android Studio, IntelliJ, VSCode, SQLTools
 - 🌐 **Web**: HTML, CSS, JavaScript
 - 🧩 **Frameworks**: Spring, Express.js
 - ☁️ **Plataformas de Nuvem**: Firebase, Vercel, Netlify, Render
