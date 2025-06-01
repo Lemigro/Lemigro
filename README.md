@@ -3,7 +3,7 @@
 Desenvolvedor de software focado em **back-end com Java** e **Oracle PL/SQL**. Apaixonado por **tecnologia** e sempre em busca de novos desafios.
 
 ## Sobre mim
-- 🎓 Estudante de **Análise e Desenvolvimento de Sistemas**.
+- 🎓 Formado em **Análise e Desenvolvimento de Sistemas**.
 - 🚀 Focado em aprender mais todos os dias.
 - 💡 Sempre buscando criar soluções inovadoras que façam a diferença.
 
