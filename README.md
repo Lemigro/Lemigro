@@ -1,24 +1,32 @@
-# Olá, eu sou Pedro 👋
+<!-- Capa visual -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=30A3DC&height=200&section=header&text=Bem-vindo%20ao%20meu%20GitHub!&fontColor=ffffff&fontSize=28&animation=fadeIn" alt="capa" />
+</p>
+
+# 👨‍💻 Pedro Nascimento — Desenvolvedor Back-end Java | PL/SQL
 
 Desenvolvedor de software focado em **back-end com Java** e **Oracle PL/SQL**. Apaixonado por **tecnologia** e sempre em busca de novos desafios.
 
-## Sobre mim
-- 🎓 Formado em **Análise e Desenvolvimento de Sistemas**.
-- 🚀 Focado em aprender mais todos os dias.
-- 💡 Sempre buscando criar soluções inovadoras que façam a diferença.
+---
 
-## Tecnologias e Ferramentas
-- 💻 **Linguagens**: Java, Kotlin, PL/SQL, PHP
-- ⚙️ **Ferramentas**: Git, Android Studio, IntelliJ, VSCode, SQLTools
-- 🌐 **Web**: HTML, CSS, JavaScript
-- 🧩 **Frameworks**: Spring, Express.js, Laravel
-- ☁️ **Plataformas de Nuvem**: Firebase, Vercel, Netlify, Render
+## 🧠 Sobre mim
+- 🎓 Formado em **Análise e Desenvolvimento de Sistemas**
+- 🚀 Focado em aprender mais todos os dias
+- 💡 Sempre buscando criar soluções inovadoras que façam a diferença
 
-## Contato
-- [LinkedIn](https://www.linkedin.com/in/pedro-nascimento-125073177/)
-- [E-mail](mailto:pedro.cosmica@gmail.com)
+---
 
-## Habilidades Técnicas
+## 💻 Tecnologias e Ferramentas
+
+- **Linguagens:** Java, Kotlin, PL/SQL, PHP  
+- **Ferramentas:** Git, Android Studio, IntelliJ, VSCode, SQLTools  
+- **Web:** HTML, CSS, JavaScript  
+- **Frameworks:** Spring, Express.js, Laravel  
+- **Nuvem:** Firebase, Vercel, Netlify, Render
+
+---
+
+## 🛠️ Habilidades Técnicas
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
@@ -36,11 +44,25 @@ Desenvolvedor de software focado em **back-end com Java** e **Oracle PL/SQL**. A
 ![Express](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) 
 ![Firebase](https://img.shields.io/badge/Firebase-000?style=for-the-badge&logo=firebase&logoColor=ffca28) 
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=white) 
-![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) 
+![Render](https://img.shields.io/badge/Render-%2346E3B7.svg?style=for-the-badge&logo=render&logoColor=white) 
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white) 
 
-## GitHub Stats
+---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lemigro&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
+## 📊 GitHub Stats
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Lemigro&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Lemigro&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF" />
+  <img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Lemigro&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF&layout=compact" />
+</p>
+
+---
+
+## 📬 Contato
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-nascimento-125073177/)
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:pedro.cosmica@gmail.com)
+
+---
+
+<p align="center">💙 Obrigado por visitar meu perfil! Vamos construir algo incrível juntos.</p>
