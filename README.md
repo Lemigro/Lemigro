@@ -1,6 +1,6 @@
 <!-- Capa visual -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=30A3DC&height=200&section=header&text=Bem%20Vindo%20ao%20meu%20Mundo&fontColor=ffffff&fontSize=28&animation=fadeIn" alt="capa" />
+  <img src="https://raw.githubusercontent.com/Lemigro/Lemigro/main/banner_gitHub.png" alt="Banner Star Wars" />
 </p>
 
 # 👨‍💻 Pedro Nascimento — Desenvolvedor Back-end Java | PL/SQL
