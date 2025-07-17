@@ -1,6 +1,6 @@
 <!-- Capa visual -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Lemigro/Lemigro/main/banner_gitHub.png" alt="Banner Star Wars" height="200" />
+  <img src="https://raw.githubusercontent.com/Lemigro/Lemigro/main/banner_gitHub.png" alt="Banner Star Wars" width="1000" />
 </p>
 
 # 👨‍💻 Pedro Nascimento — Desenvolvedor Back-end Java | PL/SQL
