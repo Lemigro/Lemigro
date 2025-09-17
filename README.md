@@ -55,10 +55,10 @@ Desenvolvedor de software focado em **back-end com Java** e **Oracle PL/SQL**. A
 
 ## 📊 GitHub Stats
 
-<p align="center">
+<div align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=Lemigro&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF" />
-  <img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Lemigro&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF&layout=compact" />
-</p>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lemigro&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF&layout=compact" />
+</div>
 
 ---
 
