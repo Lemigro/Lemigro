@@ -1,0 +1,31 @@
+name: Generate Snake
+
+on:
+  # Executa automaticamente a cada 24 horas
+  schedule:
+    - cron: "0 0 * * *" 
+  
+  # Permite rodar manualmente na aba ACTIONS
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v3
+
+      - uses: Platane/snk@v3
+        with:
+          # Nome do seu usuário GitHub
+          github_user_name: Lemigro
+          outputs: |
+            dist/github-contribution-grid-snake.svg?color_snake=#E94D5F&color_dots=#161b22,#1f2d3d,#2b4055,#30A3DC,#6ecbf5
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
