@@ -5,7 +5,7 @@ Desenvolvedor de software focado em **back-end com Java** e **Oracle PL/SQL**. A
 ---
 
 ## 🧠 Sobre mim
-- 🎓 Formado em **Análise e Desenvolvimento de Sistemas** e estudande de **Ciências da Computação**
+- 🎓 Formado em **Análise e Desenvolvimento de Sistemas** e estudante de **Ciências da Computação**
 - 🚀 Focado em aprender mais todos os dias
 - 💡 Sempre buscando criar soluções inovadoras que façam a diferença
 
@@ -14,9 +14,9 @@ Desenvolvedor de software focado em **back-end com Java** e **Oracle PL/SQL**. A
 ## 💻 Tecnologias e Ferramentas
 
 - **Linguagens:** Java, Kotlin, PL/SQL, PHP, Vue
-- **Ferramentas:** Git, Android Studio, IntelliJ, VSCode, SQLTools  
-- **Web:** HTML, CSS, JavaScript  
-- **Frameworks:** Spring, Express.js, Laravel  
+- **Ferramentas:** Git, Android Studio, IntelliJ, VSCode, SQLTools  
+- **Web:** HTML, CSS, JavaScript  
+- **Frameworks:** Spring, Express.js, Laravel  
 - **Nuvem:** Firebase, Vercel, Netlify, Render
 
 ---
@@ -49,14 +49,21 @@ Desenvolvedor de software focado em **back-end com Java** e **Oracle PL/SQL**. A
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Lemigro&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lemigro&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF&layout=compact" />
+    <img height="170" src="https://github-readme-stats.vercel.app/api?username=Lemigro&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF" />
+    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lemigro&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF&layout=compact" />
+</div>
+<br>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lemigro&theme=transparent&hide_border=false&border_color=30A3DC&ring=E94D5F&fire=E94D5F&currStreakLabel=E94D5F&sideNums=FFF&sideLabels=FFF&dates=FFF&background=000" />
+</div>
+<br>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Lemigro&bg_color=000&color=30A3DC&line=E94D5F&point=FFF&area=true&hide_border=false" />
 </div>
 
 ---
@@ -68,4 +75,4 @@ Desenvolvedor de software focado em **back-end com Java** e **Oracle PL/SQL**. A
 
 ---
 
-<p align="center">💙 Obrigado por visitar meu perfil! Vamos construir algo incrível juntos.</p>
+<p align="center">💙 Vamos construir algo incrível juntos.</p>
