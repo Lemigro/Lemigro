@@ -1,4 +1,4 @@
-# 👨‍💻 Pedro Nascimento — Desenvolvedor Back-end Java | PL/SQL
+# 👨‍💻 Pedro Nascimento — Desenvolvedor Full Stack | Java | PL/SQL
 
 Desenvolvedor de software focado em **back-end com Java** e **Oracle PL/SQL**. Apaixonado por **tecnologia** e sempre em busca de novos desafios.
 
