@@ -80,4 +80,4 @@ Desenvolvedor de software full stack focado em **back-end com Java** e **Oracle 
 
 ---
 
-<p align="center">Vamos construir algo incrível juntos.</p>
+<p align="center">Vamos por a mãozinha no código ?</p>
