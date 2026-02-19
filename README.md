@@ -4,14 +4,14 @@ Desenvolvedor de software full stack focado em **back-end com Java** e **Oracle 
 
 ---
 
-## 🧠 Sobre mim
-- 🎓 Formado em **Análise e Desenvolvimento de Sistemas** e estudante de **Ciências da Computação**
-- 🚀 Focado em aprender mais todos os dias
-- 💡 Sempre buscando criar soluções inovadoras que façam a diferença
+## Sobre mim
+- Formado em **Análise e Desenvolvimento de Sistemas** e estudante de **Ciências da Computação**
+- Focado em aprender mais todos os dias
+- Sempre buscando criar soluções inovadoras que façam a diferença
 
 ---
 
-## 💻 Tecnologias e Ferramentas
+## Tecnologias e Ferramentas
 
 - **Linguagens:** Java, Kotlin, PL/SQL, PHP, Vue
 - **Ferramentas:** Git, Android Studio, IntelliJ, VSCode, SQLTools  
@@ -21,7 +21,7 @@ Desenvolvedor de software full stack focado em **back-end com Java** e **Oracle 
 
 ---
 
-## 🛠️ Habilidades Técnicas
+## Habilidades Técnicas
 
 #### Linguagens
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -51,7 +51,7 @@ Desenvolvedor de software full stack focado em **back-end com Java** e **Oracle 
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Lemigro/Lemigro/output/github-contribution-grid-snake.svg" alt="Snake animation" />
@@ -73,11 +73,11 @@ Desenvolvedor de software full stack focado em **back-end com Java** e **Oracle 
 
 ---
 
-## 📬 Contato
+## Contato
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-nascimento-125073177/)
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:pedro.cosmica@gmail.com)
 
 ---
 
-<p align="center">💙 Vamos construir algo incrível juntos.</p>
+<p align="center">Vamos construir algo incrível juntos.</p>
