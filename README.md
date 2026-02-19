@@ -79,5 +79,3 @@ Desenvolvedor de software full stack focado em **back-end com Java** e **Oracle 
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:pedro.cosmica@gmail.com)
 
 ---
-
-<p align="center">Vamos por a mãozinha no código ?</p>
