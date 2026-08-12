@@ -1,7 +1,7 @@
-<!-- Banner tipográfico animado -->
+<!-- Banner tipografico animado -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=30A3DC&center=true&vCenter=true&width=700&lines=Ol%C3%A1!+Eu+sou+o+Pedro+Nascimento+%F0%9F%91%8B;Full+Stack+%7C+Java+%7C+PL%2FSQL;Sempre+aprendendo+e+construindo+" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=30A3DC&center=true&vCenter=true&width=700&lines=Ol%C3%A1!+Eu+sou+o+Pedro+Nascimento;Full+Stack+%7C+Java+%7C+PL%2FSQL;Sempre+aprendendo+e+construindo" alt="Typing SVG" />
   </a>
 </div>
 
@@ -16,7 +16,7 @@
 
 ---
 
-# 👨‍💻 Pedro Nascimento — Desenvolvedor Full Stack | Java | PL/SQL
+# Pedro Nascimento — Desenvolvedor Full Stack | Java | PL/SQL
 
 Desenvolvedor de software full stack focado em **back-end com Java** e **Oracle PL/SQL**. Apaixonado por **tecnologia** e sempre em busca de novos desafios.
 
@@ -29,13 +29,13 @@ Desenvolvedor de software full stack focado em **back-end com Java** e **Oracle 
 - Sempre buscando criar soluções inovadoras que façam a diferença
 
 <details>
-  <summary>📌 Clique para saber mais</summary>
+  <summary>Clique para saber mais</summary>
   <br>
 
-  - 🔭 Atualmente aprimorando skills em **Java / Spring** e **PL/SQL**
-  - 🌱 Estudando **Ciências da Computação** e boas práticas de arquitetura
-  - 💬 Pergunte-me sobre **back-end**, **bancos Oracle** ou **APIs REST**
-  - ⚡ Fun fact: gosto de transformar problemas complexos em soluções simples
+  - Atualmente aprimorando skills em **Java / Spring** e **PL/SQL**
+  - Estudando **Ciências da Computação** e boas práticas de arquitetura
+  - Pergunte-me sobre **back-end**, **bancos Oracle** ou **APIs REST**
+  - Fun fact: gosto de transformar problemas complexos em soluções simples
 
 </details>
 
@@ -54,7 +54,7 @@ Desenvolvedor de software full stack focado em **back-end com Java** e **Oracle 
 ## Habilidades Técnicas
 
 <details open>
-  <summary>🧠 Linguagens</summary>
+  <summary>Linguagens</summary>
   <br>
 
   ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -68,7 +68,7 @@ Desenvolvedor de software full stack focado em **back-end com Java** e **Oracle 
 </details>
 
 <details>
-  <summary>🧩 Frameworks & Bibliotecas</summary>
+  <summary>Frameworks & Bibliotecas</summary>
   <br>
 
   ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
@@ -79,7 +79,7 @@ Desenvolvedor de software full stack focado em **back-end com Java** e **Oracle 
 </details>
 
 <details>
-  <summary>☁️ Ferramentas & Cloud</summary>
+  <summary>Ferramentas & Cloud</summary>
   <br>
 
   ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
@@ -119,7 +119,7 @@ Desenvolvedor de software full stack focado em **back-end com Java** e **Oracle 
 <br>
 
 <details>
-  <summary>📈 Clique para ver o gráfico de atividade</summary>
+  <summary>Clique para ver o gráfico de atividade</summary>
   <br>
   <div align="center">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=Lemigro&bg_color=00000000&color=30A3DC&line=E94D5F&point=FFFFFF&area=true&hide_border=false" alt="Activity Graph" />
@@ -127,7 +127,7 @@ Desenvolvedor de software full stack focado em **back-end com Java** e **Oracle 
 </details>
 
 <details>
-  <summary>🏆 Clique para ver troféus do GitHub</summary>
+  <summary>Clique para ver troféus do GitHub</summary>
   <br>
   <div align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=Lemigro&theme=onedark&no-frame=true&column=6&margin-w=8&margin-h=8" alt="GitHub Trophies" />
@@ -146,6 +146,6 @@ Desenvolvedor de software full stack focado em **back-end com Java** e **Oracle 
 
 <br>
 
-⭐️ *Obrigado por visitar meu perfil!*
+*Obrigado por visitar meu perfil!*
 
 </div>
